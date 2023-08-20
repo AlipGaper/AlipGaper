@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AlipMaskhuri
 - 👀 I’m interested in Machine Learning
+- I’m looking to collaborate on Information Technology
 - 🌱 I’m currently learning Machine Learning Path at Bangkit Academy
 - 📫 You can contact me on instagram, twitter or email
 
